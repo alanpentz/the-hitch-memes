@@ -1,11 +1,57 @@
 {
   "thesis_slug": "ai-knowledge-work",
-  "exported_at": "2025-12-27T16:19:07.108544",
-  "total_count": 0,
+  "exported_at": "2025-12-27T16:22:23.945320",
+  "total_count": 9,
   "by_type": {
-    "supporting": 0,
+    "supporting": 3,
     "challenging": 0,
-    "evolving": 0
+    "evolving": 6
   },
-  "recent_signals": []
+  "recent_signals": [
+    {
+      "id": "1c0870a4-33d6-48c7-afef-9102d573aecc",
+      "type": "evolving",
+      "title": "Klarna AI reversal reveals the disruption-without-unemployment pattern"
+    },
+    {
+      "id": "bfa26c77-dc2f-4d5c-89a2-6cf122bf9c7d",
+      "type": "evolving",
+      "title": "Experienced programmers blind to AI revolution - confidence as blindspot"
+    },
+    {
+      "id": "20dcdf9b-5aa6-434b-acb8-1f3943b1f9ce",
+      "type": "evolving",
+      "title": "The 2.5-Person AI-Native Agency Model"
+    },
+    {
+      "id": "8ed57cd6-ab6f-4e29-ad9a-3c0ce5831e1d",
+      "type": "evolving",
+      "title": "The Knowledge Programmer: A New Role Category"
+    },
+    {
+      "id": "ff6e8321-2ccf-44b0-8bbe-701bcb19f1b7",
+      "type": "supporting",
+      "title": "Revenue Per Employee: The AI-Native Multiplier Effect"
+    },
+    {
+      "id": "d7b230a9-4082-4500-8b70-e92e9ed01590",
+      "type": "supporting",
+      "title": "AI Economics: The Compounding Cost Deflation"
+    },
+    {
+      "id": "1b4e3626-bfde-4993-bdfc-701731170ffd",
+      "type": "evolving",
+      "title": "Agent Systems Will Produce More Value Than Vibe Coding"
+    },
+    {
+      "id": "ffe06748-a605-45a1-a5e5-c1c595a394c8",
+      "type": "supporting",
+      "title": "Vibe Coding Becomes Default for Business Apps"
+    },
+    {
+      "id": "e4c0edac-924f-43c0-95ec-341adef58ed4",
+      "type": "evolving",
+      "title": "Klarna AI reversal reveals disruption without unemployment pattern"
+    }
+  ]
 }
