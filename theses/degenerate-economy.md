@@ -32,11 +32,11 @@ Something has broken in the traditional financial contract with young Americans.
 
 > **Key Insight:** When $500 can't meaningfully contribute to a down payment that's 10 years away, but *could* 50x on a memecoin—the "degenerate" choice becomes the rational one.
 
-This isn't irrational exuberance. It's rational nihilism. Howard Lindzon, founder of StockTwits, coined the term "Degenerate Economy" to describe this phenomenon. Travis Kling of Ikigai Asset Management expanded on it as "Financial Nihilism"—a palpable shift in how an entire generation approaches wealth-building.
+This isn't irrational exuberance. It's rational nihilism. [Howard Lindzon](https://howardlindzon.com/), founder of [StockTwits](https://stocktwits.com/), coined the term "Degenerate Economy" to describe this phenomenon. [Travis Kling](https://twitter.com/Travis_Kling) of Ikigai Asset Management expanded on it as "[Financial Nihilism](https://travis-kling.medium.com/)"—a palpable shift in how an entire generation approaches wealth-building.
 
 ## The Lindzon Framework
 
-Howard Lindzon characterizes the spirit of this boom as **"Speculation as Entertainment"** and **"Investing as a Sport."** The lines between trading, ownership, gambling, and entertainment have blurred—and it all happens on your phone.
+[Howard Lindzon](https://howardlindzon.com/) characterizes the spirit of this boom as **"Speculation as Entertainment"** and **"Investing as a Sport."** The lines between trading, ownership, gambling, and entertainment have blurred—and it all happens on your phone.
 
 Key observations:
 
@@ -50,22 +50,22 @@ Key observations:
 
 Lindzon created an index of 13 public companies plus Bitcoin that serve the degenerate economy. These are the "picks and shovels" of speculation-as-entertainment:
 
-| Company | Ticker | Role |
-|---------|--------|------|
-| Robinhood | HOOD | Zero-fee trading platform |
-| Coinbase | COIN | Crypto exchange |
-| DraftKings | DKNG | Sports betting platform |
-| CME Group | CME | Derivatives exchange |
-| CBOE | CBOE | Options exchange |
-| ICE | ICE | Exchange infrastructure |
-| Apple | AAPL | Device distribution |
-| Google | GOOG | Search/discovery |
-| Sea Limited | SE | Gaming + fintech (Asia) |
-| Roblox | RBLX | Virtual economy platform |
-| Deckers | DECK | Consumer discretionary |
-| Axon | AXON | (Positioned in index) |
-| SMH | SMH | Semiconductor exposure |
-| Bitcoin | BTC | Digital gold/speculation |
+| Company | Ticker | Category | Role |
+|---------|--------|----------|------|
+| [Robinhood](https://robinhood.com) | HOOD | Trading | Zero-fee trading platform |
+| [Coinbase](https://coinbase.com) | COIN | Crypto | Primary crypto exchange |
+| [DraftKings](https://draftkings.com) | DKNG | Betting | Sports betting platform |
+| [CME Group](https://cmegroup.com) | CME | Infrastructure | Derivatives exchange |
+| [CBOE](https://cboe.com) | CBOE | Infrastructure | Options exchange |
+| [ICE](https://ice.com) | ICE | Infrastructure | Exchange infrastructure |
+| Apple | AAPL | Distribution | Device ecosystem |
+| Google | GOOG | Distribution | Search and discovery |
+| [Sea Limited](https://sea.com) | SE | Gaming | Gaming + fintech (Asia) |
+| [Roblox](https://roblox.com) | RBLX | Gaming | Virtual economy platform |
+| Deckers | DECK | Consumer | Consumer discretionary |
+| Axon | AXON | Tech | Security tech |
+| SMH | SMH | Semis | Semiconductor ETF |
+| Bitcoin | BTC | Crypto | Digital gold / speculation |
 
 **Performance:** The index has significantly outperformed major indices since inception (May 2023), with Lindzon reporting 71%+ returns through late 2024.
 
@@ -77,9 +77,9 @@ Travis Kling's February 2024 essay went viral with 500k+ views. His core argumen
 
 This mindset isn't confined to crypto. It explains:
 - **Meme stock mania** — GME, AMC, BBBY weren't irrationality; they were financial protest
-- **Prediction market explosion** — Polymarket, Kalshi growing as betting-on-reality platforms
+- **Prediction market explosion** — [Polymarket](https://polymarket.com), [Kalshi](https://kalshi.com) growing as betting-on-reality platforms
 - **Crypto resilience** — Despite crashes and scams, participation grows
-- **YOLO culture** — WallStreetBets as lifestyle identity
+- **YOLO culture** — [WallStreetBets](https://reddit.com/r/wallstreetbets) as lifestyle identity
 
 The evidence is cultural: A Seth Rogen movie about GameStop was made in 18 months. Financial nihilism isn't fringe—it's mainstream entertainment.
 
@@ -89,7 +89,7 @@ The evidence is cultural: A Seth Rogen movie about GameStop was made in 18 month
 Median home price to median income ratios are at historic extremes. When saving for a down payment would take 15-20 years, the opportunity cost of speculation drops dramatically.
 
 **Wage Stagnation for Entry-Level Workers**
-Web 2.0 era starting salaries have declined in real terms. The tech ladder that once promised rapid wealth accumulation has broken rungs.
+Entry-level tech salaries have declined in real terms since 2022. The tech ladder that once promised rapid wealth accumulation has broken rungs.
 
 **Institutional Distrust**
 Young investors watched 2008 bailouts, COVID money printing, and crypto rug pulls. They don't trust institutions—so why trust institutional investment advice?
@@ -142,7 +142,7 @@ Maybe this isn't economics at all. Maybe it's:
 
 ### The Self-Defeating Critique
 
-AIER argues: "By embracing financial nihilism, they thwart any realistic chance at solving the problems they claim to be protesting." Long-term planning still dominates nihilistic alternatives in expected value terms.
+[AIER](https://www.aier.org/) argues: "By embracing financial nihilism, they thwart any realistic chance at solving the problems they claim to be protesting." Long-term planning still dominates nihilistic alternatives in expected value terms.
 
 **The behavior may be culturally authentic but economically self-defeating.**
 
@@ -162,6 +162,6 @@ AIER argues: "By embracing financial nihilism, they thwart any realistic chance 
 
 ## Origin & Attribution
 
-- **"Degenerate Economy"** — Term coined by Howard Lindzon (StockTwits founder, Social Leverage GP)
-- **"Financial Nihilism"** — Concept originated by Demetri Kofinas (Hidden Forces podcast), popularized by Travis Kling (Ikigai Asset Management)
-- **Cultural documentation** — Kyla Scanlon's WSJ piece "Why My Generation Is Turning to Financial Nihilism" (December 2025)
+- **"Degenerate Economy"** — Term coined by [Howard Lindzon](https://howardlindzon.com/) (StockTwits founder, Social Leverage GP)
+- **"Financial Nihilism"** — Concept originated by [Demetri Kofinas](https://hiddenforces.io/) (Hidden Forces podcast), popularized by [Travis Kling](https://twitter.com/Travis_Kling) (Ikigai Asset Management)
+- **Cultural documentation** — Kyla Scanlon's WSJ piece "[Why My Generation Is Turning to Financial Nihilism](https://www.wsj.com/finance/investing/financial-nihilism-gen-z-investing)" (December 2025)
