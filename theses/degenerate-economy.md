@@ -48,26 +48,29 @@ Key observations:
 
 ## The Degenerate Economy Index
 
-Lindzon created an index of 13 public companies plus Bitcoin that serve the degenerate economy. These are the "picks and shovels" of speculation-as-entertainment:
+Lindzon created an actively managed index on [GoThematic](https://gothematic.com/index/degencom) tracking companies that serve the degenerate economy. These are the "picks and shovels" of speculation-as-entertainment. The original 13 companies plus Bitcoin launched in May 2023; Lindzon has since added positions as the thesis evolves:
 
 | Company | Ticker | Category | Role |
 |---------|--------|----------|------|
+| [Google](https://abc.xyz) | GOOG | Distribution | Search / discovery (largest holding) |
+| [Apple](https://apple.com) | AAPL | Distribution | Device ecosystem |
 | [Robinhood](https://robinhood.com) | HOOD | Trading | Zero-fee trading platform |
 | [Coinbase](https://coinbase.com) | COIN | Crypto | Primary crypto exchange |
 | [DraftKings](https://draftkings.com) | DKNG | Betting | Sports betting platform |
 | [CME Group](https://cmegroup.com) | CME | Infrastructure | Derivatives exchange |
 | [CBOE](https://cboe.com) | CBOE | Infrastructure | Options exchange |
 | [ICE](https://ice.com) | ICE | Infrastructure | Exchange infrastructure |
-| Apple | AAPL | Distribution | Device ecosystem |
-| Google | GOOG | Distribution | Search and discovery |
 | [Sea Limited](https://sea.com) | SE | Gaming | Gaming + fintech (Asia) |
 | [Roblox](https://roblox.com) | RBLX | Gaming | Virtual economy platform |
-| Deckers | DECK | Consumer | Consumer discretionary |
-| Axon | AXON | Tech | Security tech |
-| SMH | SMH | Semis | Semiconductor ETF |
+| [Deckers](https://deckers.com) | DECK | Consumer | Consumer discretionary |
+| [Axon](https://axon.com) | AXON | Tech | Security / body cameras |
+| [SMH](https://www.vaneck.com/us/en/investments/semiconductor-etf-smh/) | SMH | Semis | VanEck Semiconductor ETF |
 | Bitcoin | BTC | Crypto | Digital gold / speculation |
+| [Affirm](https://affirm.com) | AFRM | Fintech | Buy now, pay later *(added 2025)* |
+| [Figma](https://figma.com) | FIG | Software | Design platform *(added Sep 2025)* |
+| [Galaxy Digital](https://galaxydigital.io) | GLXY | Crypto | Crypto asset management *(added 2025)* |
 
-**Performance:** The index has significantly outperformed major indices since inception (May 2023), with Lindzon reporting 71%+ returns through late 2024.
+**Performance:** Up 144% in its first two years (May 2023 – May 2025), significantly outperforming major indices. Lindzon took profits on Robinhood, Reddit, Coinbase, DraftKings, and Roblox in mid-2025, and held 15% cash as of late 2025. Track it live on [GoThematic](https://gothematic.com/index/degencom).
 
 ## Financial Nihilism as Investment Thesis
 
