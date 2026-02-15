@@ -1,0 +1,119 @@
+{
+  "thesis_slug": "reshoring",
+  "debate_date": "2025-01-15",
+  "title": "Four Perspectives on the Reshoring & Deglobalization Thesis",
+  "perspectives": [
+    {
+      "id": "manufacturing_ceo",
+      "name": "Manufacturing CEO",
+      "role": "Fortune 500 Industrial Conglomerate, 35K employees across 12 countries",
+      "avatar": "🏭",
+      "color": "#3B82F6",
+      "initial_position": "My first instinct is to call this overstated. We've been hearing 'reshoring is coming' since 2011 and the actual numbers have been modest. Our company runs sophisticated cost models that still favor offshore production for 70% of our SKUs. But I'll admit the calculus is shifting faster than my board expected. The combination of CHIPS Act subsidies, tariff uncertainty, and our own supply chain nightmares during COVID has our CFO running scenarios we would have laughed at three years ago. The question isn't whether reshoring happens\u2014it's whether the economics actually work at scale or whether this is a policy-driven sugar high.",
+      "key_threats": [
+        "Our biggest vulnerability is the gap between announcement and execution. We've announced a $400M domestic facility, but permitting alone took 14 months. Meanwhile, our Chinese competitors built equivalent capacity in 8 months. If the policy tailwind reverses\u2014a new administration, budget cuts, subsidy clawbacks\u2014we're stuck with half-built, high-cost facilities and no fallback.",
+        "Labor is the silent killer. We need 2,000 skilled manufacturing workers for the new plant. Our HR team says the local labor pool can provide maybe 800. Training takes 18 months. Immigration restrictions make importing talent nearly impossible. Automation helps but doesn't solve the problem for complex assembly.",
+        "Our competitors who stayed offshore are 15-25% cheaper on landed cost. If consumer demand softens and retailers squeeze margins, we can't absorb that premium indefinitely. The 'national security premium' only works when consumers aren't price-shopping."
+      ],
+      "key_moves": [
+        "Dual-track strategy: build domestic capacity for products with genuine supply chain risk (semiconductors, defense components, pharmaceuticals) while maintaining offshore for commodity products. Don't reshore everything\u2014reshore what matters.",
+        "Invest $200M in automation to close the labor gap. If domestic labor is 3x more expensive, we need 3x the productivity per worker. Fanuc robots, Siemens PLCs, and AI-driven quality control can get us to 2x. The remaining gap is the real cost of reshoring.",
+        "Lock in 10-year power purchase agreements now. Every new factory needs reliable, affordable energy. Natural gas contracts at current prices make the economics work. If energy costs spike 30%, the whole model breaks."
+      ],
+      "blind_spots": [
+        "I keep modeling reshoring as a cost problem. But my competitors in Japan, Korea, and Germany are modeling it as a capability problem\u2014they're investing in domestic manufacturing not because it's cheaper but because it gives them control over innovation cycles. If they're right and I'm wrong, I'm optimizing the wrong variable.",
+        "The currency debasement angle in this thesis is something my treasury team hasn't seriously modeled. If every major economy simultaneously runs industrial policy and fiscal expansion, the FX assumptions in our cost models are wrong. We're pricing in stable currency relationships that may not hold."
+      ],
+      "revised_position": "After pressure-testing the thesis, I'm moving from 'this is overhyped' to 'this is real but messy.' The 30% supply chain diversification target by 2028 is aggressive but not impossible\u2014I'd put it at 20% with high confidence, 30% if policy support holds. The real story isn't that everything comes home; it's that critical manufacturing diversifies out of single-source dependency. For my company specifically, I'm accelerating domestic investment from $400M to $700M over 3 years\u2014not because the thesis convinced me reshoring is cheap, but because the cost of NOT having domestic optionality is higher than I previously modeled. The $40B professional services demand number feels right\u2014we alone will spend $50M on engineering, legal, and permitting services for our new facilities.",
+      "stance_shift": "defensive_to_urgent"
+    },
+    {
+      "id": "logistics_operator",
+      "name": "Logistics Operator",
+      "role": "CEO of $2B freight and warehousing company, 30 years in supply chain",
+      "avatar": "🚛",
+      "color": "#10B981",
+      "initial_position": "I've been watching this thesis play out in real time through our freight volumes. Container imports from China are down 18% year-over-year, but total domestic freight is UP 12%. That delta is reshoring in action\u2014not in the grand strategic sense, but in the mundane reality of factories ordering equipment, construction materials moving to new sites, and regional supply chains getting built. My customers aren't talking about reshoring as ideology anymore. They're calling it 'supply chain resilience' and treating it as a line item in their risk budget.",
+      "key_threats": [
+        "The infrastructure isn't ready. New factories in the Southeast need rail connections, road improvements, and grid capacity that take 5-10 years to build. We're booking freight to factory sites that don't have adequate roads yet. The bottleneck isn't willingness to reshore\u2014it's the physical infrastructure to support it.",
+        "Warehouse vacancy rates in reshoring corridors (South Carolina, Tennessee, Arizona) have dropped from 8% to 2% in 18 months. Rents are up 40%. Our customers are paying 2022-era pandemic premiums for space near new factory sites. This is a capacity constraint that could slow the whole thesis.",
+        "Trucking labor shortage hasn't improved. We need 80,000 new drivers per year; we're getting 50,000. Autonomous trucks are 5+ years from scale. If domestic manufacturing ramps and we can't move the output, the whole chain breaks."
+      ],
+      "key_moves": [
+        "Pre-position warehouse capacity in the top 10 reshoring corridors before competitors. We're signing 10-year leases at current rates, betting that demand will make these look cheap. If we're wrong, we eat the lease costs. If we're right, we have strategic assets our competitors can't replicate.",
+        "Build intermodal facilities that connect new factory clusters to existing rail and highway networks. The companies that solve 'last mile to factory' logistics will capture disproportionate value in the reshoring buildout.",
+        "Invest in regional distribution networks. Reshoring means shorter supply chains but more complex domestic routing. Our national long-haul network was built for imports. We need hub-and-spoke networks optimized for domestic manufacturing."
+      ],
+      "blind_spots": [
+        "I'm so focused on the physical logistics that I might be missing the financial logistics. If reshoring requires $2T+ in cumulative investment, the financing structures\u2014project finance, tax equity, public-private partnerships\u2014are a massive opportunity I'm not positioned for. The money movement might be bigger than the freight movement.",
+        "My assumption is that reshoring means MORE domestic freight. But if factories get smarter and more automated, they might need fewer input shipments and produce with less waste. Throughput per factory could go up while freight volumes per unit of GDP go down. I could be positioning for volume growth in a throughput world."
+      ],
+      "revised_position": "The thesis is playing out faster than even I expected, and I'm the optimist in this room. But the constraints are real: infrastructure, labor, warehouse capacity, and energy are all bottlenecks that will slow the timeline from 'CHIPS Act to production.' I'd extend the thesis timeframe by 2-3 years for most sectors, with semiconductors moving fastest (government urgency) and consumer goods moving slowest (cost sensitivity). The investment opportunity is less in the factories themselves and more in the connective tissue\u2014the logistics, infrastructure, and services that make reshored manufacturing actually function. That's where the $40B+ services demand materializes. My company is betting the next 5 years of capital allocation on this thesis being directionally correct, even if the timing is imprecise.",
+      "stance_shift": "optimistic_to_urgent"
+    },
+    {
+      "id": "hedge_fund_pm",
+      "name": "Hedge Fund PM",
+      "role": "Global Macro Fund, $5B AUM, 20 years in currency and commodity markets",
+      "avatar": "📊",
+      "color": "#8B5CF6",
+      "initial_position": "The reshoring thesis is popular, consensus, and therefore probably half-wrong. Every sell-side strategist has a reshoring deck. That's usually a sign the easy money has been made. The question I'm interested in isn't 'will reshoring happen'\u2014obviously some will. It's 'what's already priced in' and 'what second-order effects is the market missing.' The currency signal in this thesis\u2014traditional FX relationships flatlined because markets price universal industrial policy\u2014that's the most interesting and under-analyzed claim.",
+      "key_threats": [
+        "The consensus long in reshoring beneficiaries (EMR, URI, industrial REITs) is crowded. Every thematic ETF has these names. When consensus unwinds\u2014a government shutdown delays CHIPS Act funding, a new administration pivots policy\u2014these positions could see violent corrections. The trade is obvious, which means the risk is hidden.",
+        "China's response is underpriced. They're not sitting idle while the West decouples. Massive investment in domestic semiconductor capacity, EV dominance, and BRI infrastructure means they're building alternative supply chains too. The assumption that reshoring happens TO the West ignores that it's happening FROM China simultaneously\u2014potentially flooding markets they control with cheap capacity.",
+        "Energy costs are the variable nobody models correctly. Reshored manufacturing in the US is viable at $3/MMBtu natural gas. At $6/MMBtu, half the projects are underwater. One cold winter, one pipeline disruption, one export terminal coming online that redirects supply\u2014the energy assumption is the weakest link in every reshoring pro forma I've seen."
+      ],
+      "key_moves": [
+        "Short the obvious beneficiaries; long the overlooked second-order plays. Specific trade: short IYJ (broad industrials ETF already pricing in reshoring) against long positions in regional banks in reshoring corridors (FNB, HOMB, BANF) where commercial lending upside isn't priced in.",
+        "Long volatility in KRW/JPY, AUD/USD, and CAD/MXN\u2014the currency pairs this thesis says are 'flatlined.' If universal industrial policy breaks down or one country defects from the consensus, these pairs will move violently in either direction. Options are cheap because vol is low. That's the trade.",
+        "Long gold vs. short 10-year Treasuries. The financial repression angle of this thesis\u2014governments running industrial policy funded by debt while keeping rates below inflation\u2014is bullish for gold and bearish for real bond returns. This isn't a reshoring trade; it's a monetary regime trade."
+      ],
+      "blind_spots": [
+        "I'm reflexively contrarian, which means I might be underweighting the sheer scale of government commitment. $500B+ in combined CHIPS Act, IRA, EU Chips Act, and Japanese semiconductor subsidies isn't a policy trial balloon\u2014it's a multi-year fiscal commitment that changes the math. I keep looking for the reversal trade when the base case might actually be 'this is real and it accelerates.'",
+        "The automation angle changes the labor cost objection I keep raising. If Fanuc, ABB, and Siemens deliver on next-gen factory automation, the 3x labor cost disadvantage shrinks to 1.5x\u2014and at that level, proximity-to-customer and supply chain resilience tip the scales. My bearish model assumes current labor productivity, which is probably wrong."
+      ],
+      "revised_position": "The thesis is directionally correct but the market has already priced in the obvious version. The alpha is in the second-order effects: currency regime changes, regional economic shifts, energy infrastructure, and the automation-enabled cost convergence that makes reshoring sustainable rather than subsidy-dependent. I'm positioning for a more nuanced outcome than 'everything comes home'\u2014specifically, a world where critical manufacturing diversifies, currency markets reprice universal industrial policy, and the companies that solve infrastructure bottlenecks (energy, logistics, labor) capture more value than the factories themselves. Timeline: 5-7 years for structural shift, not the 3-year sprint the consensus expects.",
+      "stance_shift": "skeptical_to_nuanced"
+    },
+    {
+      "id": "policy_analyst",
+      "name": "Industrial Policy Analyst",
+      "role": "Former Treasury Department, now advising sovereign wealth funds on reshoring investment",
+      "avatar": "🏛️",
+      "color": "#F59E0B",
+      "initial_position": "I spent 15 years at Treasury watching the US industrial base hollow out while we optimized for consumer welfare\u2014cheap goods, efficient markets, comparative advantage. The thesis that this is reversing is correct, but most private sector analysts don't understand WHY it's irreversible. This isn't a policy choice anymore; it's a national security imperative that both parties agree on. The last time we had this kind of bipartisan consensus was the Interstate Highway System. The scale of investment will surprise people.",
+      "key_threats": [
+        "The federal budget reality is harsh. CHIPS Act alone requires $52B in direct subsidies, plus $100B+ in tax credits. If debt ceiling fights, government shutdowns, or fiscal austerity movements cut this funding, the private sector commitments that depend on it will stall. Policy risk is the biggest single threat to this thesis.",
+        "Permitting reform is the bottleneck nobody talks about. A new semiconductor fab takes 2-3 years to build in Taiwan. In the US, permitting alone takes 2 years before construction starts. Environmental review, state/local approvals, utility hookups\u2014the regulatory infrastructure was designed for an economy that imports, not one that builds.",
+        "Allied coordination is fragile. The thesis assumes US, EU, Japan, and allies move together. But each has different priorities: US wants semiconductor independence, EU wants energy transition, Japan wants defense. When these priorities conflict\u2014and they will\u2014the unified reshoring narrative fractures."
+      ],
+      "key_moves": [
+        "Advise sovereign wealth fund clients to allocate 15-20% to US/EU reshoring infrastructure: industrial REITs, construction equipment, workforce housing in reshoring corridors. This is a generational real asset opportunity comparable to post-WWII suburban buildout.",
+        "Position for the permitting reform trade. When Congress finally passes streamlined permitting (it will, because neither party can deliver on reshoring promises without it), the companies waiting on permits will see project timelines compress by 50%. First movers into the permit queue benefit most.",
+        "Build a monitoring framework for 'reshoring velocity'\u2014track factory announcements vs. groundbreakings vs. first production. The gap between announcements and execution is where the real alpha lives. Right now, announcements are running 3x ahead of actual production starts."
+      ],
+      "blind_spots": [
+        "I spent my career in policy and I overweight government's ability to execute. The private sector adapts faster than regulators. The CHIPS Act might get bogged down in implementation\u2014prevailing wage requirements, diversity mandates, environmental reviews\u2014that slow deployment. Good policy intentions don't automatically translate to good economic outcomes.",
+        "I'm also underweighting the possibility that AI and automation make this thesis LESS impactful than I think. If manufacturing becomes so automated that location is irrelevant (robots work the same everywhere), the strategic imperative to reshore weakens. The physical proximity argument only matters if you need humans in the loop."
+      ],
+      "revised_position": "After this debate, I'm more convinced than ever that the thesis is correct but more realistic about the execution timeline. I'm moving my base case from '80% of CHIPS Act targets met by 2028' to '60% met by 2030.' The policy commitment is real and irreversible\u2014no future president will campaign on 'send semiconductor manufacturing back to China.' But execution will be messier, slower, and more expensive than the optimists expect. The investment opportunity is enormous precisely BECAUSE it's a multi-decade structural shift, not a 3-year policy cycle play. Sovereign wealth funds should be building 20-year exposure to US industrial infrastructure. The professional services demand\u2014the $40B figure\u2014is probably conservative. I'd put it at $60-80B when you include energy infrastructure, workforce development, and housing for new factory workers.",
+      "stance_shift": "opportunistic_to_aggressive"
+    }
+  ],
+  "synthesis": {
+    "consensus": [
+      "Reshoring is structurally real, not a policy fad\u2014bipartisan support and national security imperatives make it irreversible",
+      "Execution will be slower and messier than announcements suggest\u2014permitting, labor, and infrastructure are genuine bottlenecks",
+      "The investment opportunity is less in the factories and more in the connective tissue: infrastructure, logistics, energy, and professional services",
+      "Energy costs are the most underappreciated risk factor in every reshoring business case",
+      "Currency markets are signaling something important about universal industrial policy that most equity analysts aren't modeling"
+    ],
+    "disagreements": [
+      "Timeline: Policy Analyst sees 20-year structural shift; Hedge Fund sees 5-7 years; Manufacturing CEO needs results in 3 years to justify capital allocation",
+      "Market pricing: Hedge Fund says obvious beneficiaries are overpriced; Logistics Operator is betting real capital that the opportunity is under-appreciated; both might be right for different market segments",
+      "Scale: Manufacturing CEO sees 20-30% of supply chains diversifying; Policy Analyst sees 60%+ as the eventual endpoint; Hedge Fund thinks the number matters less than who captures the margin",
+      "China's response: Only the Hedge Fund is seriously modeling competitive responses from China, which could change the entire value distribution"
+    ],
+    "key_insight": "The debate reveals that reshoring is not one thesis but three nested theses operating on different timescales: (1) a 3-5 year policy implementation cycle where government money flows but execution lags announcements, (2) a 5-10 year infrastructure buildout where the real bottlenecks get resolved or the thesis stalls, and (3) a 15-25 year structural shift in global manufacturing that changes the geography of economic power. Most investors are trading thesis #1. The real money is in positioning for thesis #2 and #3\u2014the infrastructure and services that make reshoring sustainable after the subsidies run out."
+  }
+}
