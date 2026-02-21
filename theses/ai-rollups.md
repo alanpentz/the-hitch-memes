@@ -1,7 +1,7 @@
 ---
 slug: ai-rollups
 title: "AI Rollups"
-status: active
+status: archived
 version: "1.0"
 created: 2026-01-04
 updated: 2026-01-04

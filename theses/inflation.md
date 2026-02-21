@@ -1,6 +1,6 @@
 ---
 slug: inflation
-title: "Inflation Pressures"
+title: "Inflation Is Going Up"
 status: evolving
 version: "2.1"
 created: 2024-05-01

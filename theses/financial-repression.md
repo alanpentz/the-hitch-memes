@@ -1,7 +1,7 @@
 ---
 slug: financial-repression
 title: "Financial Repression: The Soft Default"
-status: active
+status: archived
 version: "1.0"
 created: 2026-01-18
 updated: 2026-01-18

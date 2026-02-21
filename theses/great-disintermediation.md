@@ -1,7 +1,7 @@
 ---
 slug: great-disintermediation
 title: "The Great Disintermediation"
-status: active
+status: archived
 version: "1.0"
 created: 2026-01-10
 updated: 2026-01-10

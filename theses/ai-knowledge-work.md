@@ -1,12 +1,11 @@
 ---
 slug: ai-knowledge-work
-title: "AI & Knowledge Work"
+title: "AI Will Take All the Jobs"
 status: active
 version: "3.0"
 created: 2024-08-01
 updated: 2026-01-04
 connections:
-  - ai-rollups
   - reshoring
   - inflation
 signal_balance:

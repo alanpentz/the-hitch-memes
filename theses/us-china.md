@@ -1,6 +1,6 @@
 ---
 slug: us-china
-title: "US-China Great Power Competition"
+title: "The New Cold War"
 status: active
 version: "1.0"
 created: 2026-02-11
